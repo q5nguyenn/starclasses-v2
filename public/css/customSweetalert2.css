@@ -1,0 +1,29 @@
+.swal2-popup {
+    border-radius: unset !important;
+}
+
+.swal2-title {
+    text-transform: uppercase;
+    font-size: 18px !important;
+}
+
+.swal2-html-container {
+    font-size: 16px;
+}
+
+.swal2-styled.swal2-confirm {
+    border-radius: unset !important;
+    font-size: 16px !important;
+    background-color: var(--green-color) !important;
+    padding: 5px 10px !important;
+}
+
+.swal2-styled.swal2-cancel {
+    border-radius: unset !important;
+    font-size: 16px !important;
+    background-color: var(--red-color) !important;
+    padding: 5px 10px !important;
+}
+
+/* .swal2-styled.swal2-default-outline:focus {
+} */

@@ -1,0 +1,40 @@
+.swal2-popup {
+    /* border-radius: unset; */
+}
+
+.swal2-title {
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.swal2-html-container {
+    font-size: 16px;
+}
+
+.swal2-styled.swal2-confirm {
+    /* border-radius: unset; */
+    font-size: 16px !important;
+    background-color: var(--green-color) !important;
+    padding: 5px 10px !important;
+}
+
+.swal2-styled.swal2-cancel {
+    /* border-radius: unset; */
+    font-size: 16px !important;
+    background-color: var(--red-color) !important;
+    padding: 5px 10px !important;
+}
+
+/* .swal2-styled.swal2-default-outline:focus {
+} */
+
+.custom-popup {
+    width: 80%;
+    height: min-content;
+}
+
+.custom-image {
+    height: 80vh;
+    width: auto;
+    object-fit: cover;
+}
